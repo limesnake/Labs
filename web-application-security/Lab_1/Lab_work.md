@@ -1,4 +1,4 @@
-# Contents
+-# Contents
 - Environment setup
 - Testing and verification
 - Packet capture demonstration
@@ -42,7 +42,9 @@ And finally i used `ps aux` to see what services are running including google us
 
 <img width="1040" height="604" alt="ps" src="https://github.com/user-attachments/assets/b0f05eb6-c51d-491f-affb-43b7a8217087" />
 
-### Step 4 : Using Burpsuite and capturing first packets video 
+### Step 4 : Using Burpsuite and capturing first http traffic
+
+If you are confused look at the folder Lab_instructions
 
 https://github.com/user-attachments/assets/c32a071a-d12a-4545-a29f-90ab649bcb72
 
